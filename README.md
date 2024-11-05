@@ -124,7 +124,9 @@ print(plan)
 ```
 
 Exact output:
+
 ![image](https://github.com/user-attachments/assets/6851c200-c61f-4880-baf2-bc4a8f267bb5)
 
 Result:
+
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
